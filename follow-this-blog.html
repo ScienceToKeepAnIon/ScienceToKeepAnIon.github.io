@@ -1,0 +1,22 @@
+---
+layout: page
+title: Follow this blog
+sharing: true
+---
+
+  <form
+    action="https://buttondown.email/api/emails/embed-subscribe/ScienceToKeepAnIon"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.email/ScienceToKeepAnIon', 'popupwindow')"
+    class="embeddable-buttondown-form"
+  >
+    <label for="bd-email">Subscribe by E-mail:</label>
+    <input type="email" name="email" id="bd-email" STYLE = "background-color: #121212;" />
+    <input type="hidden" value="1" name="embed" />
+    <input type="submit" value="Subscribe" STYLE = "background-color: #121212; color: #F786AA; cursor: pointer;" />
+  </form>
+  <br>Or<br><br>
+  {%- include article/footer/subscribe.html -%}
+  <br>
+  or by both if you wish, no complaints here :bowtie:.

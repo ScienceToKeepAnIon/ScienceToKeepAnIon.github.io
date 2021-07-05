@@ -48,3 +48,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+  - title: Follow this blog
+    url: /follow-this-blog.html  
