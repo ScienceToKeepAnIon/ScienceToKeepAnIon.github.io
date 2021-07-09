@@ -4,14 +4,21 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-#
-# ,--------.      ,--.   ,--. ,--.
-# '--.  .--',---.  \  `.'  /,-'  '-.
-#    |  |  | .-. :  .'    \ '-.  .-'
-#    |  |  \   --. /  .'.  \  |  |
-#    `--'   `----''--'   '--' `--'
-
-
+                                                                                            
+#                             &    @/       &.    @                             
+#                            @       @@   @@                                    
+#                            . @@@   @@ @ @.   @@*                              
+#                             &   @@&@@@@@@@&@@   @                             
+#                             .@@@%@@@@@@@@@@@@@@%                              
+#                       %%     @@@ @@@@@@@@@@@@@       @*                       
+#                     @         &@@@   @@@    @@@         @                     
+#                     @         @  @@@ @@@    @@@         @                     
+#                       @@     @   @@@@@@@@@@@@        @                        
+#                              (@@@@@  @@@  @@@@@&                              
+#                             & @@@   &@@@@   @@@ @                             
+#                            . @@&     @@@     @@@                              
+#                            @        @   %                                     
+#                             &    @        @*    @                              
 
 
 ## => Site Settings
@@ -35,11 +42,11 @@ timezone: Asia/Kolkata # see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## => Ownership Verification
 ##############################
 webmaster_verifications:
-  google: 1234
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234
+  google: ##1234
+  bing: ##1234
+  alexa: ##1234
+  yandex: ##1234
+  baidu: ##1234
 
 
 ## => Author and Social
@@ -52,7 +59,7 @@ author:
   bio       : I am an amazing person.
   email     : taranrajk2203@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  twitter   : TaranRajK1 # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : TRKD02 # "user_name" the last part of your profile url, e.g. https://t.me/user_name
@@ -62,6 +69,9 @@ author:
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+
+##twitter:
+##  card: summary_large_image
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
@@ -207,7 +217,7 @@ exclude:
   - /screenshots
   - /test
   - /vendor
-  - /_drafts
+  - /docker
 
 defaults:
   - scope:
@@ -222,6 +232,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+      image: /android-chrome-512x512.png
 
 kramdown:
   math_engine: katex
@@ -234,3 +245,4 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-seo-tag
+  - amp-jekyll
