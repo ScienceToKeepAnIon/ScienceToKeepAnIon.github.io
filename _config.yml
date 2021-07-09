@@ -131,6 +131,19 @@ sharing:
   addthis:
     id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
 
+    
+## => Compress
+################
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []
+
 
 ## => Comments
 ##############################
