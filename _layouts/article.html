@@ -17,19 +17,28 @@ type: article
     <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
   {%- endif -%}
 
-  <form
-    action="https://buttondown.email/api/emails/embed-subscribe/ScienceToKeepAnIon"
-    method="post"
-    target="popupwindow"
-    onsubmit="window.open('https://buttondown.email/ScienceToKeepAnIon', 'popupwindow')"
-    class="embeddable-buttondown-form"
-  >
-  <label for="bd-email">Enjoyed the read? Never miss out on future posts by subscribing to this blog by E-mail: </label><br><br>
-  <input type="email" name="email" id="bd-email" placeholder="E-mail" STYLE = "background-color: #121212;" />
-  <input type="hidden" value="1" name="embed" />
-  <input type="submit" value="Subscribe" STYLE = "background-color: #121212; color: #F786AA; cursor: pointer;" />
-  </form>
+  <!-- Begin Mailchimp Signup Form -->
+  <div id="mc_embed_signup">
+    <form action="https://github.us6.list-manage.com/subscribe/post?u=a636eaaece2870b50170e2057&amp;id=3a144ccdb7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+    
+        <span class="mc-field-group">
+          <label for="mce-EMAIL">Enjoyed the read? Never miss out on future posts by subscribing to this blog by E-mail: </label><br><br>
+          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="E-mail" STYLE = "background-color: #121212;">
+        </span>
+        <span id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </span>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <span style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a636eaaece2870b50170e2057_3a144ccdb7" tabindex="-1" value=""></span>
+        <span class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" STYLE = "background-color: #121212; color: #F786AA; cursor: pointer;"></span>
+      </div>
+    </form>
+  </div>
+  <!--End mc_embed_signup-->
+
   <br>Or
+
   <div class="d-print-none">
     {%- include article-footer.html -%}
     {%- include article-section-navigator.html -%}

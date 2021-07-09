@@ -73,7 +73,7 @@
 - New grid system
 - Image, card, item and hero components
 - Tag additional style
-- chart.js update to 2.7.2, mathjax update to 2.7.4 and mermaid update to 8.0.0-rc.8
+- chart.js update to 2.7.2 and mermaid update to 8.0.0-rc.8
 
 ### Bug Fixes
 
@@ -114,7 +114,7 @@
 
 ### Bug Fixes
 
-- `mathjax` and `mermaid` setting may not work
+ - `mermaid` setting may not work
 
 ## 2.0.0 (2018-07-01)
 
@@ -133,7 +133,6 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 - `text_color_theme` setting
 - Long pagination
 - Additional styles (Alert, Image)
-- Mathjax `autoNumber` setting (@liao961120)
 - Article heading anchor
 - Previous and next post
 - Search
@@ -186,8 +185,6 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 ## 1.2.2 (2017-11-04)
 
 ### Enhancements
-
-- MathJax Support
 - Add “Read more” link at the end of article excerpt
 - 404 page
 

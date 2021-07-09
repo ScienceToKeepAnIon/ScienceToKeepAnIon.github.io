@@ -21,14 +21,25 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://sciencetokeepanion.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Science to Keep an Ion
+tagline: Better not lose sight of this!!
+logo: /apple-touch-icon.png
 description: > # this means to ignore newlines until "Language & timezone"
-  Work in progress...
+  Work in progress... test test test test test test testtest test test test test test test test test test test  v test test test test test test test test test .
 
 
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
 timezone: Asia/Kolkata # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+
+## => Ownership Verification
+##############################
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
 
 
 ## => Author and Social
@@ -83,10 +94,6 @@ toc:
 
 ## => Markdown Enhancements
 ##############################
-## Mathjax
-mathjax: true # false (default), true
-mathjax_autoNumber: true # false (default), true
-
 ## Mermaid
 mermaid: true # false (default), true
 
@@ -181,7 +188,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : date
+permalink   : pretty
 
 exclude:
   - CHANGELOG.md
@@ -216,6 +223,8 @@ defaults:
       show_subscribe: true
       pageview: true
 
+kramdown:
+  math_engine: katex
 
 ## => Plugins
 ##############################
@@ -224,3 +233,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
