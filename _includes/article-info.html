@@ -67,6 +67,8 @@
             </li>
           {%- endif -%}
 
+          {% include read_time.html %}
+
           {%- if _pageview -%}
             {%- if site.pageview.provider -%}
               {%- include snippets/get-locale-string.html key='VIEWS' -%}
