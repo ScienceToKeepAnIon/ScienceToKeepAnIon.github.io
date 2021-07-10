@@ -1,3 +1,29 @@
 /* start custom scss snippet */
+.more a {
+  border-radius: 2px;
+  border: 1.5px solid $main-color-1;
+  padding: .3em .5em;
+  transition: .2s background, .2s color;
+}
+.more a:hover   {
+  color: #ffff;
+  background: $main-color-1;
+  text-decoration: inherit;
+}
 
+input[type="submit"]    {
+  background: $background-color;
+  border: 1.5px solid $text-color;
+  color: $main-color-1;
+  cursor: pointer;
+}
+input[type="submit"]:hover    {
+  background: $main-color-1;
+  text-decoration: inherit;
+  color: darken($main-color-1, 20%);
+}
+input[type="email"]  {
+  background-color: #121212;
+  border: 1.5px solid $text-color;
+}
 /* end custom scss snippet */

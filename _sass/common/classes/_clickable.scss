@@ -35,10 +35,10 @@
   @if $hover-clr == default {
     @if $hover-bg-clr == null {
       @if $theme == "light" {
-        $hover-clr: darken($clr, 14%);
+        $hover-clr: darken($clr, 20%);
       }
       @if $theme == "dark" {
-        $hover-clr: lighten($clr, 18%);
+        $hover-clr: lighten($clr, 20%);
       }
     } @else if $hover-bg-clr == default {
       $hover-clr: $clr;
@@ -47,10 +47,10 @@
 
   @if $hover-bg-clr == default {
     @if $theme == "light" {
-      $hover-bg-clr: darken($bg-clr, 14%);
+      $hover-bg-clr: darken($bg-clr, 20%);
     }
     @if $theme == "dark" {
-      $hover-bg-clr: lighten($bg-clr, 18%);
+      $hover-bg-clr: lighten($bg-clr, 20%);
     }
   }
 
