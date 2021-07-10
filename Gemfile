@@ -13,5 +13,3 @@ gem 'tzinfo-data'
 gem 'jekyll-admin', group: :jekyll_plugins
 
 gem 'jekyll-seo-tag'
-
-gem 'amp-jekyll'  
