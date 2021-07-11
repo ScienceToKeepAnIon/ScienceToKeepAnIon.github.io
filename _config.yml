@@ -31,7 +31,6 @@ baseurl : # does not include hostname
 title   : Science to Keep an Ion
 tagline: Better not lose sight of this!!
 logo: /apple-touch-icon.png
-image: /android-chrome-512x512.png
 description: > # this means to ignore newlines until "Language & timezone"
   Work in progress... test test test test test test testtest test test test test test test test test test test  v test test test test test test test test test.
 
