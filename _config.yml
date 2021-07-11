@@ -4,6 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+
                                                                                             
 #                             &    @/       &.    @                             
 #                            @       @@   @@                                    
@@ -31,7 +32,7 @@ title   : Science to Keep an Ion
 tagline: Better not lose sight of this!!
 logo: /apple-touch-icon.png
 description: > # this means to ignore newlines until "Language & timezone"
-  Work in progress... test test test test test test testtest test test test test test test test test test test  v test test test test test test test test test .
+  Work in progress... test test test test test test testtest test test test test test test test test test test  v test test test test test test test test test.
 
 
 ## => Language and Timezone
@@ -70,6 +71,13 @@ author:
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
+
+## => Feed Settings
+#####################
+feed:
+  excerpt_only: true # excludes the content and includes only the excerpt in the RSS feed
+
+
 ##twitter:
 ##  card: summary_large_image
 
@@ -85,7 +93,7 @@ repository_tree: master
 paths:
   root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
+  archive : /archive/ # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
 
