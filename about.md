@@ -1,75 +1,25 @@
 ---
-layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
+layout: page
+title: About
 sharing: true
+katex: true
 ---
 
-{% include lazyload.html image_src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg" image_alt="TeXt Theme" image_title="TeXt Theme" %}
+### A layman's destination to witness bomber levels of passion to have {fun}.
+#### This blog is built to be a source of inspiration and knowledge for the ever-curious.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+{% include lazyload.html image_src="/assets/About/TRK.jpg" image_alt="Taran Raj K" image_title="Taran Raj K" %}
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+nuqneH! :smiley: I am Taran from Bengaluru, an aspiring entrepreneur, engineer and quite possibly, the biggest nerd you're ever going to meet :neckbeard:. Yes, I'm that kid who obsesses over his typing speed and also plays the violin :violin: (Shocking!). I thoroughly enjoy Renaissance literature and also will never miss a chance to dress up in Victorian fashion :bowtie:. You will find me usually at the Planetarium :milky_way:, preferably just after heavy rain, isolated from the world, listening to Tartini or Bach (Count Dracula himself fancies them I heard), madly scribbling equations in my book. Or in my room, listening to works that 19th century villains listened to :ghost:, sipping super dark and strong coffee, madly typing away at some code on my PC.
 
-## Features
+I'm a person who loves to see the science in everything (You will be surprised at my ability to drag it into literally every conversation) and I derive great pleasure from introducing mind-blowing ideas to people :grin:. 
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([KaTeX](https://katex.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+One day, while I was writing my journal and riding my rather lengthy train of thought, I had one of those many moments where I thought, "If only more people knew about this :confused:", and I finally decided to do something about it and so, here we are :grinning:. I will be writing about matters of great interest to me and my thoughts about them hoping that others find them interesting and informational too, like a journal of sorts. This blog will definitely scratch that curiosity itch for you. I believe that the brain is a muscle that should be kept fit :muscle:.
 
-## Skins
+Favourite anime: Code Geass
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+Favourite formula: $$\frac 1 2​ <\lfloor mod(\lfloor \frac y {17}\rfloor 2^{−17\lfloor x\rfloor −mod(\lfloor y\rfloor ,17)},2)\rfloor$$ aka Tupper's self-referential formula (It's really interesting, you should look it up).
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg){:class="lazyload"} | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg){:class="lazyload"} | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg){:class="lazyload"} |
+If you haven't realised, the headline is a reference to the atomic spectral series :sweat_smile:.
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg){:class="lazyload"} | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg){:class="lazyload"} | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg){:class="lazyload"} |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png){:class="lazyload"} | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png){:class="lazyload"} | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png){:class="lazyload"} | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png){:class="lazyload"} | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png){:class="lazyload"} |
+If you like what I write, you can [follow to this blog by email or RSS](/follow-this-blog/).

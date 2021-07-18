@@ -29,11 +29,10 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://sciencetokeepanion.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Science to Keep an Ion
-tagline: Better not lose sight of this!!
+tagline: A layman's destination to witness bomber levels of passion to have {fun}.
 logo: /apple-touch-icon.png
 description: > # this means to ignore newlines until "Language & timezone"
-  Work in progress... test test test test test test testtest test test test test test test test test test test  v test test test test test test test test test.
-
+  This blog is built to be a source of inspiration and knowledge for the ever-curious.
 
 ## => Language and Timezone
 ##############################
