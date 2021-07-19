@@ -36,6 +36,14 @@ Fork of [TeXt](https://github.com/kitian616/jekyll-TeXt-theme).
 ## Skins
 This website has 6 built-in skins and uses [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme. You can also set up your own skin.
 
+| `default` | `dark` | `forest` |
+| --- |  --- | --- |
+| {% include lazyload.html image_src="/assets/README/skins_default.jpg" image_alt="Default" image_title="Default" %} | {% include lazyload.html image_src="/assets/README/skins_dark.jpg" image_alt="Dark" image_title="Dark" %} | {% include lazyload.html image_src="/assets/README/skins_forest.jpg" image_alt="Forest" image_title="Forest" %} |
+
+| `ocean` | `chocolate` | `orange` |
+| --- |  --- | --- |
+| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg){:class="lazyload"} | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg){:class="lazyload"} | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg){:class="lazyload"} |
+
 ## Installing it
 After cloning the project, install [Jekyll](https://jekyllrb.com/docs/) and its [prerequisites](https://jekyllrb.com/docs/installation/).
 
