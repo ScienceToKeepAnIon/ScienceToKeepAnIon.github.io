@@ -38,7 +38,7 @@ This website has 6 built-in skins and uses [Tomorrow](https://github.com/chriske
 
 | `default` | `dark` | `forest` |
 | --- |  --- | --- |
-| {% include lazyload.html image_src="/assets/README/skins_default.jpg" image_alt="Default" image_title="Default" %} | {% include lazyload.html image_src="/assets/README/skins_dark.jpg" image_alt="Dark" image_title="Dark" %} | {% include lazyload.html image_src="/assets/README/skins_forest.jpg" image_alt="Forest" image_title="Forest" %} |
+| ![Default](/assets/About/screenshots/skins_default.jpg){:class="lazyload"} | ![Dark](/assets/About/skins_dark.jpg){:class="lazyload"} | ![Forest](/assets/About/screenshots/skins_forest.jpg){:class="lazyload"} |
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
