@@ -34,7 +34,7 @@ Fork of [TeXt](https://github.com/kitian616/jekyll-TeXt-theme).
 - [jejyll-compress](https://github.com/penibelst/jekyll-compress-html)
 
 ## Skins
-This website has 6 built-in skins and uses [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme. You can also set up your own skin.
+This website has 6 built-in skins. You can also set up your own skin.
 
 | `default` | `dark` | `forest` |
 | --- |  --- | --- |
@@ -43,6 +43,12 @@ This website has 6 built-in skins and uses [Tomorrow](https://github.com/chriske
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
 | ![Ocean](https://sciencetokeepanion.github.io/assets/README/skins_ocean.jpg) | ![Chocolate](https://sciencetokeepanion.github.io/assets/README/skins_chocolate.jpg) | ![Orange](https://sciencetokeepanion.github.io/assets/README/skins_orange.jpg) |
+
+This website uses [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+
+| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
+| --- |  --- | --- | --- |  --- |
+| ![Tomorrow](https://sciencetokeepanion.github.io/assets/README/highlight_tomorrow.png) | ![Tomorrow Night](https://sciencetokeepanion.github.io/assets/README/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://sciencetokeepanion.github.io/assets/README/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://sciencetokeepanion.github.io/assets/README/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://sciencetokeepanion.github.io/assets/README/highlight_tomorrow-night-bright.png) |
 
 ## Installing it
 After cloning the project, install [Jekyll](https://jekyllrb.com/docs/) and its [prerequisites](https://jekyllrb.com/docs/installation/).
