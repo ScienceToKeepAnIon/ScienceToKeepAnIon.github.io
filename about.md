@@ -32,4 +32,4 @@ If you haven't realised, the headline is a reference to the atomic spectral seri
 
 > *"The present is theirs; the future, for which I really worked, is mine." -Nikola Tesla*
 
-If you like what I write, you can [follow to this blog by email or RSS](/follow-this-blog/).
+I will be putting out an article every Wednesday. So if you like what I write, you can [follow to this blog by email or RSS](/follow-this-blog/).
