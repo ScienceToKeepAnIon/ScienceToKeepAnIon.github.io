@@ -5,7 +5,7 @@ sharing: true
 katex: true
 ---
 
-### A layman's destination to witness bomber levels of passion to have {fun}.
+## A layman's destination to witness bomber levels of passion to have {fun}.
 #### This blog is built to be a source of inspiration and knowledge for the ever-curious.
 
 {% include lazyload.html image_src="/assets/About/TRK.jpg" image_alt="Taran Raj K" image_title="Taran Raj K" %}

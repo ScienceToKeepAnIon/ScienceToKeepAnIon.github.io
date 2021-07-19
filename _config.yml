@@ -265,4 +265,3 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-seo-tag
-  - amp-jekyll

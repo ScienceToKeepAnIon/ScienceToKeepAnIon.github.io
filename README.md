@@ -1,21 +1,44 @@
-# Your Favicon Package
+# Science to Keep an Ion blog
+## A layman's destination to witness bomber levels of passion to have {fun}. This blog is built to be a source of inspiration and knowledge for the ever-curious.
+This is the source code for my blog https://sciencetokeepanion.github.io/. It uses [Jekyll](https://jekyllrb.com/) to generate static pages and is hosted on GitHub pages.
+Fork of [TeXt](https://github.com/kitian616/jekyll-TeXt-theme).
 
-This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
+## Plugins:
+    - [jekyll-feed](https://github.com/jekyll/jekyll-feed)
+    - [jekyll-paginate](https://github.com/jekyll/jekyll-paginate)
+    - [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
+    - [jemoji](https://github.com/jekyll/jemoji)
+    - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+    - [jekyll-admin](https://github.com/jekyll/jekyll-admin)
+    - [lazySizes](https://github.com/aFarkas/lazysizes)
+    - [KaTeX](https://katex.org/)
+    - [mermaid](https://mermaidjs.github.io/)
+    - [chartjs](http://www.chartjs.org/)
+    
 
-## Install instructions
+## Features
+    - Responsive
+    - Semantic HTML
+    - Skins
+    - Highlight Theme
+    - Internationalization
+    - Search
+    - Table of contents
+    - Authors
+    - Additional styles (alert, tag, image, icon, button, grid, etc)
+    - Extensions (audios, videos, slides, demos)
+    - Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
+    - Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
+    - Pageview ([LeanCloud](https://leancloud.cn/))
+    - Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
+    - [jejyll-compress](https://github.com/penibelst/jekyll-compress-html)
 
-To install this package:
+## Skins
+This website has 6 built-in skins and uses [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme. You can also set up your own skin.
 
-Extract this package in the root of your web site. If your site is <code>http://www.example.com</code>, you should be able to access a file named <code>http://www.example.com/favicon.ico</code>.
+## Installing it
+After cloning the project, install [Jekyll](https://jekyllrb.com/docs/) and its [prerequisites](https://jekyllrb.com/docs/installation/).
 
-Insert the following code in the `head` section of your pages:
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#603cba">
-    <meta name="msapplication-TileColor" content="#603cba">
-    <meta name="theme-color" content="#ffffff">
-
-*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
+## Developing
+Run: bundle exec jekyll serve --trace
+Then open https://127.0.0.1:4000/ in a browser.
