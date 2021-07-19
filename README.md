@@ -38,7 +38,7 @@ This website has 6 built-in skins and uses [Tomorrow](https://github.com/chriske
 
 | `default` | `dark` | `forest` |
 | --- |  --- | --- |
-| ![Default](/assets/About/screenshots/skins_default.jpg){:class="lazyload"} | ![Dark](/assets/About/skins_dark.jpg){:class="lazyload"} | ![Forest](/assets/About/screenshots/skins_forest.jpg){:class="lazyload"} |
+| ![Default](https://sciencetokeepanion.github.io/assets/About/screenshots/skins_default.jpg) | ![Dark](https://sciencetokeepanion.github.io/assets/About/skins_dark.jpg) | ![Forest](https://sciencetokeepanion.github.io/assets/About/screenshots/skins_forest.jpg) |
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
