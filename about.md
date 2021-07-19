@@ -18,7 +18,7 @@ I'm a person who loves to see the science in everything (You will be surprised a
 
 One day, while I was writing my journal and riding my rather lengthy train of thought, I had one of those many moments where I thought, "If only more people knew about this :confused:", and I finally decided to do something about it and so, here we are :grinning:. I will be writing about matters of great interest to me and my thoughts about them hoping that others find them interesting and informational too, like a journal of sorts. That would be basically anything and everything which involves science or technology.
 
-This blog is for those who are driven and want to be at the very frontier of human understanding, but at the same time peer into the depths and explore every corner of it. For those with open minds. "Curiosity killed the cat. But satisfaction brought it back." Well, bugger off, Schrodinger :joy:.
+This blog is for those who are driven and want to be at the very frontier of human understanding, but at the same time peer into the depths and explore every corner of it. For those with open minds. "Curiosity killed the cat. But satisfaction brought it back." Well, bugger off, Schrödinger :joy:.
 
 This is my first blog :neutral_face:. I am always open to any questions, suggestions, disagreements, complaints or any other feedback. In fact, I hope you reach out to me regarding what you read here, as I love a good discussion, and a good argument, both in equal measure :smile:. I would also love to hear about any work that my blog articles were the inspiration for.
 
