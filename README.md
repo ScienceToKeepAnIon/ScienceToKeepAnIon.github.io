@@ -42,7 +42,7 @@ This website has 6 built-in skins and uses [Tomorrow](https://github.com/chriske
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg){:class="lazyload"} | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg){:class="lazyload"} | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg){:class="lazyload"} |
+| ![Ocean](https://sciencetokeepanion.github.io/assets/README/skins_ocean.jpg) | ![Chocolate](https://sciencetokeepanion.github.io/assets/README/skins_chocolate.jpg) | ![Orange](https://sciencetokeepanion.github.io/assets/README/skins_orange.jpg) |
 
 ## Installing it
 After cloning the project, install [Jekyll](https://jekyllrb.com/docs/) and its [prerequisites](https://jekyllrb.com/docs/installation/).
