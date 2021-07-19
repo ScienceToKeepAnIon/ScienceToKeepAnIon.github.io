@@ -27,5 +27,4 @@ _site/
 .jekyll-cache/
 
 _drafts
-/docker/
-Dockerfile.dev
+/old/
