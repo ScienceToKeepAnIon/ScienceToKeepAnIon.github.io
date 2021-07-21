@@ -13,9 +13,11 @@ type: article
 
   <div class="article__content" itemprop="articleBody">{{ content }}</div>
 
-  {%- if _sharing -%}
-    <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
-  {%- endif -%}
+  <div><i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." -Nikola Tesla</i></div><br>
+
+  <div>Do you have any questions, suggestions, disagreements, complaints or any other kind of feedback? Don't hesitate to contact me.</div><br>
+
+  {% include lazyload.html image_src="/assets/Don't hesitate.gif" image_alt="Don't hesitate" image_title="Don't hesitate" %}<br><br>
 
   <!-- Begin Mailchimp Signup Form -->
   <div id="mc_embed_signup">
@@ -43,6 +45,10 @@ type: article
     {%- include article-footer.html -%}
     {%- include article-section-navigator.html -%}
   </div>
+
+  {%- if _sharing -%}
+    <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
+  {%- endif -%}
   
 </div>
 
