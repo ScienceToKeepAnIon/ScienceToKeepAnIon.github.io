@@ -13,7 +13,7 @@ image: /assets/Initial Commit - Hello World!/Hello World!.gif
 
 {% include lazyload.html image_src="/assets/nuqneH!.gif" image_alt="nuqneH!" image_title="nuqneH!" %}
 
-At last, it is time for the first post. Here goes nothing :cold_sweat:.
+At last, it is time for the first post. Welp! Here goes nothing :cold_sweat:.
 
 <!--more-->
 
@@ -113,7 +113,11 @@ Not gonna lie, now that I've discovered [Hugo](https://gohugo.io/){:target="_bla
 
 ### Theme selection
 
-Finally, after all that searching, I decided on my first step - starting with a Jekyll theme. I thought that it would be easier to start with something pre-built and then change it later. So after some more scouring through the web, I found the theme that I wanted to use. It was a theme named [Contrast](https://github.com/niklasbuschmann/contrast){:target="_blank"}. It looked exactly as I envisioned after a few minor colour and font changes, but it was a great big **mistake** :frowning:.
+Finally, after all that searching, I decided on my first step - starting with a Jekyll theme. I thought that it would be easier to start with something pre-built and then change it later. Don't be mistaken, Jekyll themes are nothing like WordPress themes. They're nowhere close in terms of simplicity. It's pretty hard to customise your theme as you have to learn how the theme is built and only then can you customise it to suit your needs. Apart from the very basics, each theme is built in a different way using different functionality and different liquid structures. The guides you find online which teach how to add functionality rarely work seamlessly due to these differences. But that is what we live for, don't we?Troubleshooting, troubleshooting, and more troubleshooting :sob:.
+
+{% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Not Easy.gif" image_alt="Not Easy" image_title="Not Easy" %}
+
+So after some more scouring through the web, I found the theme that I wanted to use. It was a theme named [Contrast](https://github.com/niklasbuschmann/contrast){:target="_blank"}. It looked exactly as I envisioned after a few minor colour and font changes, but it was a great big **mistake** :frowning:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Huge Mistake.gif" image_alt="Huge Mistake" image_title="Huge Mistake" %}
 
