@@ -14,7 +14,7 @@ katex: true
 
 {% include lazyload.html image_src="/assets/nuqneH!.gif" image_alt="nuqneH!" image_title="nuqneH!" %}
 
-I am Taran from Bengaluru, an aspiring entrepreneur, engineer and quite possibly, the biggest nerd you're ever going to meet :neckbeard:. Yes, I'm that kid who obsesses over his typing speed and also plays the violin :violin: (Shocking!). I thoroughly enjoy Renaissance literature and also will never miss a chance to dress up in Victorian fashion :bowtie:. You will find me usually at the [Planetarium](https://taralaya.org/) :milky_way:, preferably just after heavy rain, isolated from the world, listening to Tartini or Bach (Count Dracula himself fancies them I heard), madly scribbling equations in my book. Or in my room, listening to works that 19th century villains listened to :ghost:, sipping super dark and strong coffee, madly typing away at some code on my PC.
+I am Taran from Bengaluru, an aspiring entrepreneur, engineer and quite possibly, the biggest nerd you're ever going to meet :neckbeard:. Yes, I'm that kid who obsesses over his typing speed and also plays the violin :violin: (Shocking!). I thoroughly enjoy Renaissance literature and also will never miss a chance to dress up in Victorian fashion :bowtie:. You will find me usually at the [Planetarium](https://taralaya.org/){:target="_blank"} :milky_way:, preferably just after heavy rain, isolated from the world, listening to Tartini or Bach (Count Dracula himself fancies them I heard), madly scribbling equations in my book. Or in my room, listening to works that 19th century villains listened to :ghost:, sipping super dark and strong coffee, madly typing away at some code on my PC.
 
 I enjoy solving the cube. I keep trying to get better times and do cool stuff like solve it blindfolded or single-handed. I also love to write using fountain pens (They're just :heart_eyes_cat:). I pass my free time (not that I have any :tired_face:) taking apart electronics or finding new ways to ethically hack into PCs :smiling_imp:.
 
@@ -30,10 +30,10 @@ This blog will definitely scratch that curiosity itch for you. I believe that th
 
 Favourite anime: Code Geass
 
-Favourite formula: $$\frac 1 2​ <\lfloor mod(\lfloor \frac y {17}\rfloor 2^{−17\lfloor x\rfloor −mod(\lfloor y\rfloor ,17)},2)\rfloor$$ aka [Tupper's self-referential formula](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula) (It's really interesting, you should look it up).
+Favourite formula: $$\frac 1 2​ <\lfloor mod(\lfloor \frac y {17}\rfloor 2^{−17\lfloor x\rfloor −mod(\lfloor y\rfloor ,17)},2)\rfloor$$ aka [Tupper's self-referential formula](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula){:target="_blank"} (It's really interesting, you should look it up).
 
-If you haven't realised yet, the headline is a reference to the [atomic spectral series](https://en.wikipedia.org/wiki/Hydrogen_spectral_series) :sweat_smile:.
+If you haven't realised yet, the headline is a reference to the [atomic spectral series](https://en.wikipedia.org/wiki/Hydrogen_spectral_series){:target="_blank"} :sweat_smile:.
 
 > *"The present is theirs; the future, for which I really worked, is mine." -Nikola Tesla*
 
-I will be putting out an article every Wednesday. So if you like what I write, you can [follow to this blog by email or RSS](/follow-this-blog/).
+I will be putting out an article every Wednesday. So if you like what I write, you can [follow to this blog by email or RSS](/follow-this-blog/){:target="_blank"}.

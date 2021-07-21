@@ -39,11 +39,11 @@ I would, in the end, come across a static site generator named Jekyll, and would
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/jekyll-og.png" image_alt="Jekyll" image_title="Jekyll" %}
 
-It was perfect as I hadn't the **slightest** idea about Jekyll, nor did I have any previous substantial web development experience :grimacing:. So I started vigorously searching for information about it on the web. YouTube, reddit, stackoverflow, Quora, and various forums, especially this one called [Jekyll Talk](https://talk.jekyllrb.com/), I looked through them all :mag:.
+It was perfect as I hadn't the **slightest** idea about Jekyll, nor did I have any previous substantial web development experience :grimacing:. So I started vigorously searching for information about it on the web. YouTube, reddit, stackoverflow, Quora, and various forums, especially this one called [Jekyll Talk](https://talk.jekyllrb.com/){:target="_blank"}, I looked through them all :mag:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Search.gif" image_alt="Search" image_title="Search" %}
 
-If you're like me and are a complete noob at this, you should checkout [this YouTube playlist](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq) by Bill Raymond. I found it extremely helpful :exclamation:.
+If you're like me and are a complete noob at this, you should checkout [this YouTube playlist](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq){:target="_blank"} by Bill Raymond. I found it extremely helpful :exclamation:.
 
 ## How I chose Jekyll
 
@@ -87,7 +87,7 @@ Now, why did I choose Jekyll particularly? That's an even better question.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Trick Question.gif" image_alt="Trick Question" image_title="Trick Question" %}
 
-- Jekyll and GitHub Pages seamlessly integrate. GitHub has [outstanding documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) on how to do this.
+- Jekyll and GitHub Pages seamlessly integrate. GitHub has [outstanding documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll){:target="_blank"} on how to do this.
 
 - It is a blog-aware static site generator, which is exactly what I need it for.
 
@@ -113,11 +113,11 @@ Not gonna lie, now that I've discovered Hugo, I do have this itch to try and use
 
 ### Theme selection
 
-Finally, after all that searching, I decided on my first step - starting with a Jekyll theme. I thought that it would be easier to start with something pre-built and then change it later. So after some more scouring through the web, I found the theme that I wanted to use. It was a theme named [Contrast](https://github.com/niklasbuschmann/contrast). It looked exactly as I envisioned after a few minor colour and font changes, but it was a great big **mistake** :frowning:.
+Finally, after all that searching, I decided on my first step - starting with a Jekyll theme. I thought that it would be easier to start with something pre-built and then change it later. So after some more scouring through the web, I found the theme that I wanted to use. It was a theme named [Contrast](https://github.com/niklasbuschmann/contrast){:target="_blank"}. It looked exactly as I envisioned after a few minor colour and font changes, but it was a great big **mistake** :frowning:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Huge Mistake.gif" image_alt="Huge Mistake" image_title="Huge Mistake" %}
 
-Now, why is that a mistake? It's because I had never considered the functions of the theme, only the aesthetics. It looked gorgeous, but it lacked some functionalities that I required like Google Analytics, archive, tags, etc. All of which I was adding to it, but it was just too time-consuming. Additionally, while I was leisurely browsing GitHub (yeah I tend to do that :joy:), I found this theme called [TeXt](https://github.com/kitian616/jekyll-TeXt-theme). It had a lot of functionality that I was adding to my original one, plus it looked pretty similar too. It was a pretty compelling offer :eyes:.
+Now, why is that a mistake? It's because I had never considered the functions of the theme, only the aesthetics. It looked gorgeous, but it lacked some functionalities that I required like Google Analytics, archive, tags, etc. All of which I was adding to it, but it was just too time-consuming. Additionally, while I was leisurely browsing GitHub (yeah I tend to do that :joy:), I found this theme called [TeXt](https://github.com/kitian616/jekyll-TeXt-theme{:target="_blank"}. It had a lot of functionality that I was adding to my original one, plus it looked pretty similar too. It was a pretty compelling offer :eyes:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Offer.gif" image_alt="Offer" image_title="Offer" %}
 
@@ -129,33 +129,33 @@ The first changes were obviously colour and font. I loved the dark theme. I didn
 
 ### Logo and Favicon
 
-Then, I decided to do my logo and favicon. I wanted some software that was easy to learn and open-source, as I was a **big fan** of the open-source ideology :raised_hands:. I decided on using [Inkscape](https://inkscape.org/). It fit the bill perfectly, and I was happy with how my logo turned out. I used [RealFaviconGenerator](https://realfavicongenerator.net/) to generate my favicon. It did the job flawlessly. 
+Then, I decided to do my logo and favicon. I wanted some software that was easy to learn and open-source, as I was a **big fan** of the open-source ideology :raised_hands:. I decided on using [Inkscape](https://inkscape.org/){:target="_blank"}. It fit the bill perfectly, and I was happy with how my logo turned out. I used [RealFaviconGenerator](https://realfavicongenerator.net/){:target="_blank"} to generate my favicon. It did the job flawlessly. 
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Perfection.gif" image_alt="Perfection" image_title="Perfection" %}
 
 ### E-mail newsletter
 
-Next, I wanted to add an E-mail newsletter system to my blog. I seemingly had found the perfect tool called [Buttondown](https://buttondown.email/). It was cool, but I would ultimately end up ditching it for [Mailchimp](https://mailchimp.com/) because it had the functionality of scraping my newsletter based on my RSS feed into the design that I had made. That was **exactly** what I wanted. It would automatically do this and send it to my subscribers regularly every week. Ain't that convenient? Moreover, it also had the option for pop-ups which I thought was neat.
+Next, I wanted to add an E-mail newsletter system to my blog. I seemingly had found the perfect tool called [Buttondown](https://buttondown.email/){:target="_blank"}. It was cool, but I would ultimately end up ditching it for [Mailchimp](https://mailchimp.com/){:target="_blank"} because it had the functionality of scraping my newsletter based on my RSS feed into the design that I had made. That was **exactly** what I wanted. It would automatically do this and send it to my subscribers regularly every week. Ain't that convenient? Moreover, it also had the option for pop-ups which I thought was neat.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Neat.gif" image_alt="Neat" image_title="Neat" %}
 
 ### Lazy loading
 
-I then decided that I want to add [lazy loading](https://en.wikipedia.org/wiki/Lazy_loading) to my blog. Lazy loading aka asynchronous loading is a design pattern in web development where it defers the loading of certain objects until it is required. In simpler words, it loads certain objects like media, etc, only when you scroll down to it and is visible to the reader. As you can imagine, it makes the website more efficient by decreasing the load times. And better load times improve your SEO. Now if you know anything about me, you would know that I chase efficiency like my life depends on it. So it was a win-win :v:.
+I then decided that I want to add [lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){:target="_blank"} to my blog. Lazy loading aka asynchronous loading is a design pattern in web development where it defers the loading of certain objects until it is required. In simpler words, it loads certain objects like media, etc, only when you scroll down to it and is visible to the reader. As you can imagine, it makes the website more efficient by decreasing the load times. And better load times improve your SEO. Now if you know anything about me, you would know that I chase efficiency like my life depends on it. So it was a win-win :v:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Absolute Win.gif" image_alt="Absolute Win" image_title="Absolute Win" %}
 
-To add this, I used [Lazysizes](https://github.com/aFarkas/lazysizes). I referred to [this guide](https://ranvir.xyz/blog/lazy-loading-your-images-in-jekyll-blog-improving-page-speed/) for help.
+To add this, I used [Lazysizes](https://github.com/aFarkas/lazysizes){:target="_blank"}. I referred to [this guide](https://ranvir.xyz/blog/lazy-loading-your-images-in-jekyll-blog-improving-page-speed/){:target="_blank"} for help.
 
 ### SEO-tag
 
-Next, I added [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag). This is an amazing plugin for Jekyll that I think must be used by absolutely everybody. It even does your [OpenGraph](https://ogp.me/) and Twitter cards for you. **Brilliant!** I didn't require many references as the instructions on its GitHub was sufficient :smile_cat:.
+Next, I added [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag){:target="_blank"}. This is an amazing plugin for Jekyll that I think must be used by absolutely everybody. It even does your [OpenGraph](https://ogp.me/){:target="_blank"} and Twitter cards for you. **Brilliant!** I didn't require many references as the instructions on its GitHub was sufficient :smile_cat:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Brilliant.gif" image_alt="Brilliant" image_title="Brilliant" %}
 
 ### Math Typesetter
 
-TeXt came with [MathJax](https://www.mathjax.org/) in-built. However, I wanted to replace it with [KaTeX](https://katex.org/) for a few reasons. Mainly, KaTeX was lighter and faster than MathJax. You can check out the comparison of speed between MathJax and KaTeX [here](https://www.intmath.com/cg5/katex-mathjax-comparison.php). I referred to [this article](https://gendignoux.com/blog/2020/05/23/katex.html) by Guillaume Endignoux for installing it onto my website. It explains it succinctly.
+TeXt came with [MathJax](https://www.mathjax.org/){:target="_blank"} in-built. However, I wanted to replace it with [KaTeX](https://katex.org/){:target="_blank"} for a few reasons. Mainly, KaTeX was lighter and faster than MathJax. You can check out the comparison of speed between MathJax and KaTeX [here](https://www.intmath.com/cg5/katex-mathjax-comparison.php){:target="_blank"}. I referred to [this article](https://gendignoux.com/blog/2020/05/23/katex.html){:target="_blank"} by Guillaume Endignoux for installing it onto my website. It explains it succinctly.
 
 ### Read time
 
@@ -163,7 +163,7 @@ I wanted to add an indicator for showing the reading time of the articles that I
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Time.gif" image_alt="Time is of the essence" image_title="Time is of the essence" %}
 
-I referred to [this article](https://excessivelyadequate.com/posts/ert.html#fnref:0minutes) for help.And with the help of some knowledgeable folks at [Jekyll Talk](https://talk.jekyllrb.com/t/how-do-i-get-the-content-from-my-articles/6220) (that's my query) who aided me in understanding the rather complex liquid in my website, I managed to add it to my website. You can check out the code on [GitHub](https://github.com/ScienceToKeepAnIon/ScienceToKeepAnIon.github.io/blob/4242693e14b4f37ac60ed78642104e3306744fa6/_includes/read_time.html).
+I referred to [this article](https://excessivelyadequate.com/posts/ert.html#fnref:0minutes){:target="_blank"} for help.And with the help of some knowledgeable folks at [Jekyll Talk](https://talk.jekyllrb.com/t/how-do-i-get-the-content-from-my-articles/6220){:target="_blank"} (that's my query) who aided me in understanding the rather complex liquid in my website, I managed to add it to my website. You can check out the code on [GitHub](https://github.com/ScienceToKeepAnIon/ScienceToKeepAnIon.github.io/blob/4242693e14b4f37ac60ed78642104e3306744fa6/_includes/read_time.html){:target="_blank"}.
 
 ### Hamburger menu
 
@@ -173,7 +173,7 @@ I did think of adding a hamburger menu but later decided against it as I had no 
 
 ### Jekyll-admin
 
-I later added [Jekyll-admin](https://jekyll.github.io/jekyll-admin/) for a CMS-style GUI. The instructions on [its GitHub](https://github.com/jekyll/jekyll-admin) were helpful.
+I later added [Jekyll-admin](https://jekyll.github.io/jekyll-admin/){:target="_blank"} for a CMS-style GUI. The instructions on [its GitHub](https://github.com/jekyll/jekyll-admin){:target="_blank"} were helpful.
 
 ## Optimisation of blog
 
@@ -197,11 +197,11 @@ Page load speed is arguably more important than build speed as it affects your S
 
 Images take substantial time to load. The priority for image file types should be SVG > PNG > JPEG. SVG is extremely lightweight if used correctly, and lightweight is your friend.
 
-Minify your HTML. It means minimising the code and markup to increase webpage load speed. The comments in your code and the whitespaces are not required for the end-user, they're there only for readability and your convenience. But they take time to load. I used [this](http://jch.penibelst.de/) handy layout to minify my HTML and referred to [this](https://blog.webjeda.com/compress-html-jekyll/) article for help. Be **careful** with minifying as certain objects (like my search) might break on minifying.
+Minify your HTML. It means minimising the code and markup to increase webpage load speed. The comments in your code and the whitespaces are not required for the end-user, they're there only for readability and your convenience. But they take time to load. I used [this](http://jch.penibelst.de/){:target="_blank"} handy layout to minify my HTML and referred to [this](https://blog.webjeda.com/compress-html-jekyll/){:target="_blank"} article for help. Be **careful** with minifying as certain objects (like my search) might break on minifying.
 
-I used [GTmetrix](https://gtmetrix.com/), [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and [WebPageTest](https://www.webpagetest.org/) to test the loading of my webpage :chart_with_upwards_trend:.
+I used [GTmetrix](https://gtmetrix.com/){:target="_blank"}, [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"} and [WebPageTest](https://www.webpagetest.org/){:target="_blank"} to test the loading of my webpage :chart_with_upwards_trend:.
 
-I used the [Mobile-Friendly test](https://search.google.com/test/mobile-friendly?utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect) to check if my page was mobile-friendly and the [Rich Results Test](https://search.google.com/test/rich-results) to test for special features in Google Search results.
+I used the [Mobile-Friendly test](https://search.google.com/test/mobile-friendly?utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect){:target="_blank"} to check if my page was mobile-friendly and the [Rich Results Test](https://search.google.com/test/rich-results){:target="_blank"} to test for special features in Google Search results.
 
 ## Finishing touches
 
