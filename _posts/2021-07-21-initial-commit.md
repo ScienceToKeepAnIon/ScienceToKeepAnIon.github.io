@@ -33,13 +33,13 @@ Of course, I could've gone the orthodox way of WordPress hosted on some service 
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Boring.gif" image_alt="Boring" image_title="Boring" %}
 
-So I started looking for alternatives that were cheap, preferably free of cost, and of course, interesting. I considered hosting WordPress on Google Cloud or AWS or something for free. I also considered hosting it on my network on my Raspberry Pi 4. 
+So I started looking for alternatives that were cheap, preferably free of cost, and of course, interesting. I considered hosting WordPress on [Google Cloud](https://cloud.google.com/){:target="_blank"} or [AWS](https://aws.amazon.com/){:target="_blank"} or something for free. I also considered hosting it on my network on my Raspberry Pi 4. 
 
-I would, in the end, come across a static site generator named Jekyll, and would choose to host it on GitHub :satisfied:.
+I would, in the end, come across a static site generator named [Jekyll](https://jekyllrb.com/){:target="_blank"}, and would choose to host it on [GitHub Pages](https://pages.github.com/){:target="_blank"} :satisfied:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/jekyll-og.png" image_alt="Jekyll" image_title="Jekyll" %}
 
-It was perfect as I hadn't the **slightest** idea about Jekyll, nor did I have any previous substantial web development experience :grimacing:. So I started vigorously searching for information about it on the web. YouTube, reddit, stackoverflow, Quora, and various forums, especially this one called [Jekyll Talk](https://talk.jekyllrb.com/){:target="_blank"}, I looked through them all :mag:.
+It was perfect as I hadn't the **slightest** idea about Jekyll, nor did I have any previous substantial web development experience :grimacing:. So I started vigorously searching for information about it on the web. YouTube, reddit, [stackoverflow](https://stackoverflow.com/questions/tagged/jekyll){:target="_blank"}, Quora, and various forums, especially this one called [Jekyll Talk](https://talk.jekyllrb.com/){:target="_blank"}, I looked through them all :mag:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Search.gif" image_alt="Search" image_title="Search" %}
 
@@ -57,7 +57,7 @@ Now, why a static website? Good question.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Break.gif" image_alt="Break" image_title="Break" %}
 
-- Static websites generally load much faster than WordPress dynamic websites, but that gap has been nearly closed now, especially due to caching. I didn't want to deal with the hassle of caching.
+- Static websites generally load much faster than [WordPress](https://wordpress.org/){:target="_blank"} dynamic websites, but that gap has been nearly closed now, especially due to caching. I didn't want to deal with the hassle of caching.
 
 - WordPress requires substantially more maintenance. Despite using WordPress managed hosting, you're still expected to do some basic core maintenance. You don't need to do that on static websites as they don't have any underlying software to maintain :clap:.
 
@@ -103,11 +103,11 @@ Now, why did I choose Jekyll particularly? That's an even better question.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/No Idea.gif" image_alt="No Idea" image_title="No Idea" %}
 
-When I found Jekyll, I had already wasted so much time before, that I just went ahead with it without researching anything else. Also, I think I found Jekyll first because it was the most popular generator among bloggers.
+  When I found Jekyll, I had already wasted so much time before, that I just went ahead with it without researching anything else. Also, I think I found Jekyll first because it was the most popular generator among bloggers.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Hugo.png" image_alt="Hugo" image_title="Hugo" %}
 
-Not gonna lie, now that I've discovered Hugo, I do have this itch to try and use that instead of Jekyll for this. Maybe I'll do that **soon**. Now, getting back to the topic at hand.
+Not gonna lie, now that I've discovered [Hugo](https://gohugo.io/){:target="_blank"}, I do have this itch to try and use that instead of Jekyll for this. Maybe I'll do that **soon**. Now, getting back to the topic at hand.
 
 ## Creation of the blog
 
@@ -163,7 +163,7 @@ I wanted to add an indicator for showing the reading time of the articles that I
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Time.gif" image_alt="Time is of the essence" image_title="Time is of the essence" %}
 
-I referred to [this article](https://excessivelyadequate.com/posts/ert.html#fnref:0minutes){:target="_blank"} for help.And with the help of some knowledgeable folks at [Jekyll Talk](https://talk.jekyllrb.com/t/how-do-i-get-the-content-from-my-articles/6220){:target="_blank"} (that's my query) who aided me in understanding the rather complex liquid in my website, I managed to add it to my website. You can check out the code on [GitHub](https://github.com/ScienceToKeepAnIon/ScienceToKeepAnIon.github.io/blob/4242693e14b4f37ac60ed78642104e3306744fa6/_includes/read_time.html){:target="_blank"}.
+I referred to [this article](https://excessivelyadequate.com/posts/ert.html#fnref:0minutes){:target="_blank"} for help.And with the help of some knowledgeable folks at [Jekyll Talk](https://talk.jekyllrb.com/t/how-do-i-get-the-content-from-my-articles/6220){:target="_blank"} (that's my query) who aided me in understanding the rather complex liquid in my website, I managed to add it to my website. You can check out the code on [my GitHub](https://github.com/ScienceToKeepAnIon/ScienceToKeepAnIon.github.io/blob/4242693e14b4f37ac60ed78642104e3306744fa6/_includes/read_time.html){:target="_blank"}.
 
 ### Hamburger menu
 
