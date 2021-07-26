@@ -121,7 +121,7 @@ So after some more scouring through the web, I found the theme that I wanted to 
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Huge Mistake.gif" image_alt="Huge Mistake" image_title="Huge Mistake" %}
 
-Now, why is that a mistake? It's because I had never considered the functions of the theme, only the aesthetics. It looked gorgeous, but it lacked some functionalities that I required like Google Analytics, archive, tags, etc. All of which I was adding to it, but it was just too time-consuming. Additionally, while I was leisurely browsing GitHub (yeah I tend to do that :joy:), I found this theme called [TeXt](https://github.com/kitian616/jekyll-TeXt-theme{:target="_blank"}. It had a lot of functionality that I was adding to my original one, plus it looked pretty similar too. It was a pretty compelling offer :eyes:.
+Now, why is that a mistake? It's because I had never considered the functions of the theme, only the aesthetics. It looked gorgeous, but it lacked some functionalities that I required like Google Analytics, archive, tags, etc. All of which I was adding to it, but it was just too time-consuming. Additionally, while I was leisurely browsing GitHub (yeah I tend to do that :joy:), I found this theme called [TeXt](https://github.com/kitian616/jekyll-TeXt-theme){:target="_blank"}. It had a lot of functionality that I was adding to my original one, plus it looked pretty similar too. It was a pretty compelling offer :eyes:.
 
 {% include lazyload.html image_src="/assets/Initial Commit - Hello World!/Offer.gif" image_alt="Offer" image_title="Offer" %}
 
