@@ -17,7 +17,7 @@ At last, it is time for the first post. Welp! Here goes nothing :cold_sweat:.
 
 <!--more-->
 
-## Background
+## Introduction
 
 People tell me that I'm good at getting my mind across to another person :smirk:. So I **finally** decided to do some form of writing to use this skill.
 
@@ -223,6 +223,6 @@ What do y'all think about Jekyll? Would you choose WordPress over it? If so, why
 
 {% include lazyload.html image_src="/assets/Tell Me.gif" image_alt="Tell Me" image_title="Tell Me" %}
 
-I'm thinking of writing about the driving force behind scientific advancement next week. Stay tuned!
+I'm thinking of writing about 'religion' as the first part of the driving forces behind scientific advancement series next week. Stay tuned!
 
 {% include lazyload.html image_src="/assets/Stay Tuned.gif" image_alt="Stay Tuned" image_title="Stay Tuned" %}
