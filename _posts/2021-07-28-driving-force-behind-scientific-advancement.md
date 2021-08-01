@@ -93,7 +93,7 @@ The emphasis was on practicality in other sciences as well, because the Chinese,
 
 ### [India](https://en.wikipedia.org/wiki/History_of_science_and_technology_in_the_Indian_subcontinent){:target="_blank"}
 
-{% include lazyload.html image_src="/assets/Driving Forces behind Scientific Advancement I - Religion/Indian Numerals.jpg" image_alt="Indian Numerals" image_title="Indian Numerals" %}
+{% include lazyload.html image_src="/assets/Driving Forces behind Scientific Advancement I - Religion/Indian numerals.jpg" image_alt="Indian Numerals" image_title="Indian Numerals" %}
 
 Similarly, in India, astronomy was studied for calendrical purposes for both practical and religious tasks, with a focus on the solar and lunar motions. Early Indian mathematics was also quite advanced, and it would later spread to the West as [Hindu-Arabic numerals](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system){:target="_blank"}.
 
